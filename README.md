@@ -1,4 +1,12 @@
 ### Hi there 👋
+**My name is Maxim**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+a+Frontend+-+Developer)](https://git.io/typing-svg)
+
+## Technology Stack
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,next,react,redux,scss,html)](https://skillicons.dev)
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://pa1.aminoapps.com/7173/5efbdcf8b1bdb50b14dd5a3fbc126de697cfd4f5r1-500-282_hq.gif" height="282" width="500"/></a>
 
 <!--
 **mxiloo/mxiloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
