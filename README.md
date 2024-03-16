@@ -1,5 +1,5 @@
-### Hi there 👋
-**My name is Maxim**
+### Привет! 👋
+**Меня зовут Максим**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+a+Frontend+-+Developer)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 
 👩🏻‍💻 Портфолио (на данный момент в разработке) - <a href="https://github.com/mxiloo/pet-portfolio" target="blank">Проект</a>
 
-## Technology Stack
+## Стек:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,next,react,redux,scss,html)](https://skillicons.dev)
 
 ## Контакты: 
