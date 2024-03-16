@@ -12,7 +12,7 @@
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,next,react,redux,scss,html)](https://skillicons.dev)
 
-## Можно связаться со мной тут: 
+## Контакты: 
 * <a href="https://t.me/ufufnywakeupxv" target="blank">Телеграм</a>
 * Почта: ```killmeapril12@gmail.com```
 
