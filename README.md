@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,next,react,redux,scss,html)](https://skillicons.dev)
 
 ## Можно связаться со мной тут: 
-```https://t.me/ufufnywakeupxv```
+<a href="https://t.me/ufufnywakeupxv" target="blank">Телеграм</a>
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://pa1.aminoapps.com/7173/5efbdcf8b1bdb50b14dd5a3fbc126de697cfd4f5r1-500-282_hq.gif" height="282" width="500"/></a>
 
