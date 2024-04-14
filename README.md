@@ -7,7 +7,7 @@
 
 🤔 Сейчас активно нахожусь в поиске работы, открыт для общения и предложений
 
-👩🏻‍💻 Портфолио (на данный момент в разработке) - <a href="https://github.com/mxiloo/pet-portfolio" target="blank">Проект</a>
+👩🏻‍💻 Портфолио (на данный момент в разработке) - <a href="https://mxiloo.github.io/pet-portfolio/" target="blank">Сайт</a> 
 
 ## Стек:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,next,react,redux,scss,html)](https://skillicons.dev)
